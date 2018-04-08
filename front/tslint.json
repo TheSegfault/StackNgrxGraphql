@@ -1,7 +1,5 @@
 {
-  "extends": [
-    "tslint:recommended"
-  ],
+  "extends": ["tslint:recommended"],
   "rules": {
     "rxjs-add": {
       "severity": "error"
@@ -9,12 +7,7 @@
     "rxjs-no-unused-add": {
       "severity": "error"
     },
-    "quotemark": [
-      true,
-      "single",
-      "avoid-escape",
-      "avoid-template"
-    ],
+    "quotemark": [true, "single", "avoid-escape", "avoid-template"],
     "object-literal-sort-keys": false
   }
 }
