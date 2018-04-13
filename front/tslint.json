@@ -14,7 +14,7 @@
     "rxjs-no-unused-add": {
       "severity": "error"
     },
-    "quotemark": [true, "double", "avoid-escape", "avoid-template"],
+    "quotemark": [true, "single", "avoid-escape"],
     "object-literal-sort-keys": false,
     "newspaper-order": true,
     "no-parameter-reassignment": true,
